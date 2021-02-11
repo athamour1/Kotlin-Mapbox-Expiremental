@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Map-Gpx</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidGhhbm9zbW91ciIsImEiOiJja2t6ajZvYjYwODV4MnZvb2UzM3F5djd5In0.57yAdCAfntjODYzIVVFO9g</string>
+</resources>
